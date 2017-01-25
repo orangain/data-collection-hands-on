@@ -7,6 +7,8 @@
 完成イメージ
 ============
 
+完成イメージは以下のとおりです。人気度の高い保育所ほどマーカーの色が濃くなっています。
+
 https://drive.google.com/open?id=1fR4asCfi52_p59sE35Pp3bUkXLk&usp=sharing
 
 .. image:: images/visualization-of-nursery.png
@@ -14,6 +16,7 @@ https://drive.google.com/open?id=1fR4asCfi52_p59sE35Pp3bUkXLk&usp=sharing
 元になるデータ
 ==============
 
+完成イメージのように可視化するためには、保育所ごとに名前・住所・人気度の値が必要です。
 以下の2つのページから収集したデータを結合して、地図上に可視化します。
 
 * `芦屋市／芦屋市内の保育施設・定員一覧 <http://www.city.ashiya.lg.jp/kodomo/ichiran_02.html>`_
