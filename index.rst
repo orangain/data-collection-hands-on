@@ -6,6 +6,8 @@
 Webデータ収集ハンズオン
 =======================
 
+これは非ITエンジニア（Excelが使えるレベル）を対象としたハンズオン資料で、Googleスプレッドシートを使ってWebのデータを収集する方法を学習します。
+
 :doc:`nursery`
     このハンズオンでは、Googleスプレッドシートを使って芦屋市の保育園の人気状況を可視化します。
 
@@ -18,3 +20,13 @@ Webデータ収集ハンズオン
 
    nursery
    rakuten
+
+
+ライセンス
+----------
+
+.. image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+    :target: http://creativecommons.org/licenses/by-sa/4.0/
+    :alt: クリエイティブ・コモンズ・ライセンス
+
+この資料は `クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス <http://creativecommons.org/licenses/by-sa/4.0/>`_ の下に提供されています。
