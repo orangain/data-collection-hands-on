@@ -25,8 +25,9 @@ Webデータ収集ハンズオン
 ライセンス
 ----------
 
-.. image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+.. image:: images/by-sa.png
     :target: http://creativecommons.org/licenses/by-sa/4.0/
     :alt: クリエイティブ・コモンズ・ライセンス
+    :width: 120
 
 この資料は `クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス <http://creativecommons.org/licenses/by-sa/4.0/>`_ の下に提供されています。
